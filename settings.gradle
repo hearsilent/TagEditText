@@ -1,0 +1,3 @@
+rootProject.name = "TagEditText"
+include ':app'
+include ':libs'
