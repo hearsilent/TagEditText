@@ -4,8 +4,7 @@
 
 A simple Android Tag EditText.
 
-<img src="https://raw.githubusercontent.com/hearsilent/TagEditText/master/screenshots/device-2021-06-11-003802.png" height="500">
-<img src="https://raw.githubusercontent.com/hearsilent/TagEditText/master/screenshots/device-2021-06-11-003906.png" height="500">
+<img src="https://github.com/hearsilent/TagEditText/raw/main/screenshots/device-2021-06-11-003802.png" height="500">    <img src="https://github.com/hearsilent/TagEditText/raw/main/screenshots/device-2021-06-11-003906.png" height="500">
 
 ## Setup
 
@@ -40,7 +39,7 @@ TagEditText.setAdapter(new ArrayAdapter());
 ```
 
 ## Customize
-You can change `[item_user_suggestion.xml](https://github.com/hearsilent/TagEditText/blob/master/app/src/main/res/layout/item_user_suggestion.xml)` as you want.
+You can change [`item_user_suggestion.xml`](https://github.com/hearsilent/TagEditText/blob/master/app/src/main/res/layout/item_user_suggestion.xml) as you want.
 
 ## TODO
 - Support change tag list background color dynamic
