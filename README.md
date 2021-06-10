@@ -1,6 +1,6 @@
 # TagEditText
 [![JitPack](https://jitpack.io/v/hearsilent/TagEditText.svg)](https://jitpack.io/#hearsilent/TagEditText)
-[![license](https://img.shields.io/github/license/hearsilent/TagEditText.svg?maxAge=2592000)](https://github.com/hearsilent/TagEditText/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/hearsilent/TagEditText.svg)](https://github.com/hearsilent/TagEditText/blob/main/LICENSE)
 
 A simple Android Tag EditText.
 
