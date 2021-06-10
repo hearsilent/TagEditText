@@ -1,6 +1,6 @@
 # TagEditText
 [![JitPack](https://jitpack.io/v/hearsilent/TagEditText.svg)](https://jitpack.io/#hearsilent/TagEditText)
-[![license](https://img.shields.io/github/license/hearsilent/TagEditText.svg?maxAge=2592000)](https://github.com/hearsilent/TagEditText/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/hearsilent/TagEditText.svg?maxAge=2592000)](https://github.com/hearsilent/TagEditText/blob/main/LICENSE)
 
 A simple Android Tag EditText.
 
@@ -39,7 +39,7 @@ TagEditText.setAdapter(new ArrayAdapter());
 ```
 
 ## Customize
-You can change [`item_user_suggestion.xml`](https://github.com/hearsilent/TagEditText/blob/master/app/src/main/res/layout/item_user_suggestion.xml) as you want.
+You can change [`item_user_suggestion.xml`](https://github.com/hearsilent/TagEditText/blob/main/app/src/main/res/layout/item_user_suggestion.xml) as you want.
 
 ## TODO
 - Support change tag list background color dynamic
